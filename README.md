@@ -1,3 +1,3 @@
 # CV
 html simple cv
-**Project URL:** 
+**Project URL:** https://onchuru.github.io/CV/
